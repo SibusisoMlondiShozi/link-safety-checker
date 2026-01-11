@@ -35,4 +35,4 @@ if scan:
             st.json(meta)
 
 st.divider()
-st.caption("Built by Sibusiso Shozi • Free & Open Source")
+st.caption("Built by [Sibusiso Shozi](https://sibusisomlondishozi.github.io/smshozi/) • Free & Open Source")
