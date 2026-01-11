@@ -9,7 +9,7 @@ The tool is designed to help users quickly identify **suspicious, obfuscated, or
 ---
 
 ## 🌐 Live Demo
-👉 (https://link-safety-checker-xwylgkquvgawgbd4vvqjbe.streamlit.app/)
+👉 https://link-safety-checker-xwylgkquvgawgbd4vvqjbe.streamlit.app/
 
 ---
 
